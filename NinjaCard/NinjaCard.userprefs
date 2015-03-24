@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NinjaCard/MainMenu/MainMenuCanvas.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NinjaCard/GameContext.cs" Line="44" Column="4" />
+      <File FileName="Assets/Scripts/NinjaCard/MainMenu/Commands/ShowMainMenuCmd.cs" Line="16" Column="59" />
+      <File FileName="Assets/Scripts/NinjaCard/MainMenu/MainMenuCanvas.cs" Line="9" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jote/work/unity/unitystuff/NinjaCard/Assets/Lib/strange/extensions/injector/impl/Injector.cs" line="293" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
